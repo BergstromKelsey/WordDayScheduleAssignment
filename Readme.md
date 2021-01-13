@@ -12,3 +12,4 @@ https://bergstromkelsey.github.io/WordDayScheduleAssignment/
 
 https://github.com/BergstromKelsey/WordDayScheduleAssignment
 
+![alt text](https://github.com/BergstromKelsey/WordDayScheduleAssignment/blob/main/Screen%20Shot%202021-01-12%20at%2010.11.34%20PM.png?raw=true)
